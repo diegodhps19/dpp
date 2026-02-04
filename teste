@@ -1,0 +1,7 @@
+echo "# dpp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/diegodhps19/dpp.git
+git push -u origin main
