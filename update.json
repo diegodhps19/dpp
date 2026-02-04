@@ -1,0 +1,6 @@
+{
+  "latest_version": "4.0",
+  "download_url": "https://github.com/diegodhps19/dpp/releases/download/DPP/Instalador_DPPrinter_v4.0.exe",
+  "notes": "Correções críticas de segurança e melhorias na telemetria.",
+  "force_update": false
+}
